@@ -33,7 +33,7 @@ the client.
 Their basic, attention-grabbing explainer videos are a one-of-a-kind and dependable answer to their
 client's business marketing problems. In addition, they take a custom approach to each client's
 organization, with specialists that help shape the client's central requirement framework and provide
-direction in selecting the most effective dynamic, format, and graphics 
+direction in selecting the most effective dynamic, format, and graphics.
 
 
 
