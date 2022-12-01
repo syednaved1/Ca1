@@ -72,7 +72,8 @@ different times.
 
 ## Recommendations 
 
-<img width="500" height="500" alt="CLOUD" src=https://"https%3A%2F%2Fwww.2ndwatch.com%2Fblog%2Fback-to-the-basics-the-3-cloud-computing-service-delivery-models%2F&psig=AOvVaw27CzcrbCugeYdendQAEPJQ&ust=1669934833388000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKDM_9G82PsCFQAAAAAdAAAAABAD"
+<img width="500" height="500" alt="CLOUD" src=![image](https://user-images.githubusercontent.com/116579865/205097554-596f0b93-79ee-47d6-ade1-e90b7aafae59.png)
+
 
 
 
