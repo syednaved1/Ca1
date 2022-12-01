@@ -72,7 +72,7 @@ different times.
 
 ## Recommendations 
 
-<img width="300" height="300" alt="CLOUD" src=![image](https://user-images.githubusercontent.com/116579865/205097554-596f0b93-79ee-47d6-ade1-e90b7aafae59.png)
+<img width="300" height="300" alt="CLOUD" src="https://user-images.githubusercontent.com/116579865/205097554-596f0b93-79ee-47d6-ade1-e90b7aafae59.png">
 
 
 
