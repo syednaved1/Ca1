@@ -73,6 +73,30 @@ different times.
 
 ## Recommendations 
 
+To begin, the Infrastructure as a Service (IaaS) cloud service paradigm is our top choice for the 
+Animation Explainer. Decentralizing storage with the aid of IaaS may greatly reduce the frequency and 
+severity of outages if done properly. Securer protocols are in place with leading cloud providers like 
+AWS, Azure, and IBM compared to in-house data centres (Alouffi et al., 2021). Small businesses typically
+lack the resources to hire a full-time security crew, but these services do. With IaaS, you are in charge
+of Applications, data, Runtime, Middleware and the vendor is responsible for managing virtualization, 
+servers, storage and networking from the underlying infrastructure to the software that runs your apps
+and data. In contrast, with PaaS, you are solely responsible for managing your data, runtime and 
+applications, whereas, in SaaS, your supplier handles everything.
+
+## Cloud Web Hosting
+●	Only for essential services will people fork out money. The majority of cloud hosting services
+     operate on a pay-as-you-go basis.
+●	The burden is distributed across several servers. When you use cloud hosting, the bandwidth 
+     requirements of your site are distributed among numerous computers.
+●	Outstanding availability is guaranteed. Given that a cluster of servers works together to maintain 
+     each hosted site, outages are extremely uncommon unless there is a major power failure. The 
+     performance of other websites hosted on the same server won't change if one of them encounters 
+     downtime or a sudden spike in traffic (Subramanian and Jeyaraj, 2018).
+●	It may be expanded as needed. Companies that provide hosting via the cloud make use of elastically 
+     scalable virtual servers.
+
+
+
 <img width="500" height="400" alt="CLOUD" src="https://user-images.githubusercontent.com/116579865/205097554-596f0b93-79ee-47d6-ade1-e90b7aafae59.png">
 
 
