@@ -7,6 +7,7 @@
 
 
 
+![image](https://user-images.githubusercontent.com/116579865/206084466-58d2441c-5ecd-4b72-b880-b35602d28da6.png)
 
 
 ## Background of the enterprise
@@ -72,7 +73,7 @@ different times.
 
 ## Recommendations 
 
-<img width="300" height="300" alt="CLOUD" src="https://user-images.githubusercontent.com/116579865/205097554-596f0b93-79ee-47d6-ade1-e90b7aafae59.png">
+<img width="500" height="400" alt="CLOUD" src="https://user-images.githubusercontent.com/116579865/205097554-596f0b93-79ee-47d6-ade1-e90b7aafae59.png">
 
 
 
