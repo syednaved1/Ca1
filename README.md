@@ -1,4 +1,4 @@
-# company name: Animation Explainer
+﻿# company name: Animation Explainer
 
 ## Subject: Cloud Technologies for Business
 
@@ -13,24 +13,20 @@
 ## Background of the enterprise
 
 
-Animation Explainer co-founders Aaron and Dylan, who have been friends for a long time, recognized the
+Animation Explainer co-founders Aaron and Dylan, they were friends who recognized the
 opportunity to put their love of animation and concept visualization into practice back in 2018.
 
 The work produced by Animation Explainers, a passionate and upbeat group of creatives with similar 
 interests, demonstrates their team's excitement for each project. They offer advice at every stage
 of the project and to create a film for you that perfectly sum up your concept right away.The company
-consists of 119-129 deligent employees currently.
+consists of 119-129 employees.
 
-Since the beginning of Animation Explainers, their goal has remained the same: With simple,
+Since the beginning of Animation Explainers, their goal has remained the same With simple,
 captivating explainer video material adapted to the particular requirements of your target customers,
 they provide a distinctive and dependable answer to the business marketing demands.,
 whose time is extremely valuable in today's hectic world. 
 
-This will elaborate on how cloud computing has become an attractive choice for small enterprises thanks
-to the widespread availability of high-speed internet and mobile devices. If you're looking for a firm 
-to work with that exudes positivity and excitement for their work, go no further than the Animation
-Explainers. They usually offer consultations during the entire process and deliver a first vision film to
-the client.
+If you're looking for a firm to work with that exudes positivity and excitement for their work, go no further than the Animation Explainers. They usually offer consultations during the entire process and deliver a first vision film to the client.
 Their basic, attention-grabbing explainer videos are a one-of-a-kind and dependable answer to their
 client's business marketing problems. In addition, they take a custom approach to each client's
 organization, with specialists that help shape the client's central requirement framework and provide
@@ -48,8 +44,7 @@ over time. There is no answer that is universally applicable because different t
 using various combinations of more recent technology, such as cloud services, and a wide variety of 
 business domains. Consequently, there is no answer that is one size fits all. It's possible that the 
 criteria will shift based on the scope, character, and environment of the endeavour. On the Isle of Man, 
-a smaller number of small and medium-sized businesses (hence the term SMEs). The findings of the various 
-reports produced by European institutions follow the same pattern. As for the current configuration of the 
+a smaller number of small and medium-sized businesses (hence the term SMEs). As for the current configuration of the 
 company, they make use of traditional IT infrastructure facilities, data centers, servers, networking 
 hardware, desktop computers, and enterprise application solutions, installed on-premises for private use 
 by the company.
@@ -101,6 +96,49 @@ applications, whereas, in SaaS, your supplier handles everything.
 
 
 
+## Benefits of Cloud Infrastructures over Non-Cloud
+
+
+cloud services are "on-demand," meaning they may be activated or cancelled on a case-by-case basis, the expenses associated with using them can be better managed (Alam, 2020).  The right decision can be made by the requirements of the enterprise.In the case of animation explainer the adaption of cloud is beneficial which will increase the efficiency, scalability and profit of the company.
+ 
+
+
+                                                                                            
+## Deployment
+Non cloud: The resources are deployed within the IT infrastructure of enterprise. It is their responsibility to look after and maintain the resources and provide solutions for troubleshooting.
+  
+Cloud: There are different kinds of cloud models Such as private   cloud, public cloud, and hybrid cloud. The cloud provider is responsible for all the resources maintenance and troubleshooting.
+
+## Cost
+Non Cloud: The enterprise pay huge amount for regular cost of server hardware, Space and power consumption.it is very expensive, 
+
+Cloud: The enterprise which chooses cloud computing model need to pay only for the resources they use. Depending on the uses and the consumptions, the price adjusts Up and down with no upkeep cost and maintenance charges and it is highly scalable.
+
+
+
+## Security 
+Non cloud: sectors such as government and banking industries have Sensitive information, its privacy and security which an on premises provides. Security is primary issue for some enterprises therefore they use on premises environment but it comes with high cost and maintenance.
+
+Cloud: The biggest obstacle to the adoption of cloud computing is still security concerns. Cloud security breaches have been widely reported, and this has worried IT organizations all around the world. The hazards to security range from employee personal information like login credentials to the theft of intellectual property.
+
+## control
+
+NON cloud: local full access and control of data and resources.
+
+cloud: limited control as the services are provided by the third party.( ontech systems,inc.)
+
+
+## Justifications:
+ 
+1. Adaption of cloud will increase the scalibility,faster deployment and efficiency's of the company
+
+2. It will save huge money which will increase the profit of the enterprise.
+
+3. cloud based services are made for remote access and availability.
+
+4. cloud allows Disaster recovery & data restoration.
+
+5. you get better roi, fewer workload, flexibility and faster revenue     growth.
 
 
 
