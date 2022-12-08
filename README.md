@@ -117,7 +117,7 @@ Cloud: The enterprise which chooses cloud computing model need to pay only for t
 
 
 ## Security 
-Non cloud: sectors such as government and banking industries have Sensitive information, its privacy and security which an on premises provides. Security is primary issue for some enterprises therefore they use on premises environment but it comes with high cost and maintenance.
+Non cloud: sectors such as government and banking industries have Sensitive information, its privacy and security which an on premises provides. Security is primary issue for some enterprises therefore they use on premises environment but it comes with high cost and maintenance.(team cleo)
 
 Cloud: The biggest obstacle to the adoption of cloud computing is still security concerns. Cloud security breaches have been widely reported, and this has worried IT organizations all around the world. The hazards to security range from employee personal information like login credentials to the theft of intellectual property.
 
@@ -140,6 +140,17 @@ cloud: limited control as the services are provided by the third party.( ontech 
 
 5. you get better roi, fewer workload, flexibility and faster revenue     growth.
 
+## References
 
+Alam, T., 2020. Cloud Computing and its role in the Information Technology. IAIC Transactions on Sustainable Digital Innovation (ITSDI), 1(2), pp.108-115.
 
+Alouffi, B., Hasnain, M., Alharbi, A., Alosaimi, W., Alyami, H. and Ayaz, M., 2021. A systematic literature review on cloud computing security: Threats and mitigation strategies. IEEE Access, 9, pp.57792-57807.
 
+Dang, L.M., Piran, M.J., Han, D., Min, K. and Moon, H., 2019. A survey on internet of things and cloud computing for healthcare. Electronics, 8(7), p.768.
+
+Subramanian, N. and Jeyaraj, A., 2018. Recent security challenges in cloud computing. Computers & Electrical Engineering, 71, pp.28-42.
+Background of the enterprise
+
+ontech systems,inc The Cloud vs. On Premise available at https://ontech.com/cloud-vs-on-premise/ {accessed 8 dec 2022}
+
+Team cleo, On Premise vs. Cloud: Key Differences, Benefits and Risks available at https://www.cleo.com/blog/knowledge-base-on-premise-vs-cloud {accessed 8 dec 2022}
