@@ -42,12 +42,9 @@ be able to improve their production efficiency and security (Dang et al., 2019).
 Numerous academic studies have made the prediction that people's reliance on the Internet will only grow
 over time. There is no answer that is universally applicable because different tasks can be completed
 using various combinations of more recent technology, such as cloud services, and a wide variety of 
-business domains. Consequently, there is no answer that is one size fits all. It's possible that the 
-criteria will shift based on the scope, character, and environment of the endeavour. On the Isle of Man, 
-a smaller number of small and medium-sized businesses (hence the term SMEs). As for the current configuration of the 
-company, they make use of traditional IT infrastructure facilities, data centers, servers, networking 
-hardware, desktop computers, and enterprise application solutions, installed on-premises for private use 
-by the company.
+business domains. As for the current configuration of the company, they make use of traditional IT infrastructure
+facilities, data centers, servers, networking hardware, desktop computers, and enterprise application solutions, 
+installed on-premises for private use by the company.
  
 On the other hand, for the web hosting of their websites, they make use of traditional web hosting. In 
 this configuration, the traditional web host makes use of physical server space to meet the requirements 
@@ -58,13 +55,10 @@ sharing space on a shared hosting platform. Processor power, frequency band, mem
 hard drives are all measured in a server's unique configuration. The dedicated hosting solution that they
 use for their website comes at an extremely high cost. 
 
-In addition, the middleware stack at Animation Explainer is shaky; it links the company's mainframe to an 
-enterprise service bus (ESB), on top of which developers toiled to create and install a collection of REST
-APIs. These legacy systems are typically crucial components of the underlying infrastructure, but their 
-upkeep is prohibitively expensive. They are typically quite complicated and were not made to work with 
-other kinds of technology. As a result, many businesses choose a complex architecture of middleware as 
-well as connectors to enable them to construct upon core technology developed for various purposes and at
-different times.
+In addition, the middleware stack at Animation Explainer is shaky; These legacy systems are typically crucial components 
+of the underlying infrastructure, but their upkeep is prohibitively expensive. They are typically quite complicated and
+were not made to work with other kinds of technology. As a result, many businesses choose a complex architecture of middleware as 
+well as connectors to enable them to construct upon core technology developed for various purposes and at different times.
 
 ## Recommendations 
 
