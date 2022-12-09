@@ -96,8 +96,6 @@ applications, whereas, in SaaS, your supplier handles everything.
 cloud services are "on-demand," meaning they may be activated or cancelled on a case-by-case basis, the expenses associated with using them can be better managed (Alam, 2020).  The right decision can be made by the requirements of the enterprise.In the case of animation explainer the adaption of cloud is beneficial which will increase the efficiency, scalability and profit of the company.
  
 
-
-                                                                                            
 ## Deployment
 Non cloud: The resources are deployed within the IT infrastructure of enterprise. It is their responsibility to look after and maintain the resources and provide solutions for troubleshooting.
   
@@ -106,7 +104,8 @@ Cloud: There are different kinds of cloud models Such as private   cloud, public
 ## Cost
 Non Cloud: The enterprise pay huge amount for regular cost of server hardware, Space and power consumption.it is very expensive, 
 
-Cloud: The enterprise which chooses cloud computing model need to pay only for the resources they use. Depending on the uses and the consumptions, the price adjusts Up and down with no upkeep cost and maintenance charges and it is highly scalable.
+Cloud: The enterprise which chooses cloud computing model need to pay only for the resources they use. Depending on the uses and the consumptions, the price adjusts
+Up and down with no upkeep cost and maintenance charges and it is highly scalable.
 
 
 
@@ -124,15 +123,15 @@ cloud: limited control as the services are provided by the third party.( ontech 
 
 ## Justifications:
  
-1. Adaption of cloud will increase the scalibility,faster deployment and efficiency's of the company
+1. Adaption of cloud will increase the scalibility, Faster deployment and efficiency of the enterprise
 
 2. It will save huge money which will increase the profit of the enterprise.
 
-3. cloud based services are made for remote access and availability.
+3. Cloud based services are made for remote access and availability.
 
-4. cloud allows Disaster recovery & data restoration.
+4. Cloud allows Disaster recovery & data restoration.
 
-5. you get better roi, fewer workload, flexibility and faster revenue     growth.
+5. You get better ROI, fewer workload, flexibility and faster revenue     growth.
 
 ## References
 
