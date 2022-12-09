@@ -118,7 +118,7 @@ Cloud: The biggest obstacle to the adoption of cloud computing is still security
 
 NON cloud: local full access and control of data and resources.
 
-cloud: limited control as the services are provided by the third party.( ontech systems,inc.)
+cloud: limited control as the services are provided by the third party.
 
 
 ## Justifications:
@@ -142,9 +142,7 @@ Alouffi, B., Hasnain, M., Alharbi, A., Alosaimi, W., Alyami, H. and Ayaz, M., 20
 Dang, L.M., Piran, M.J., Han, D., Min, K. and Moon, H., 2019. A survey on internet of things and cloud computing for healthcare. Electronics, 8(7), p.768.
 
 Subramanian, N. and Jeyaraj, A., 2018. Recent security challenges in cloud computing. Computers & Electrical Engineering, 71, pp.28-42.
-Background of the enterprise
-
-ontech systems,inc The Cloud vs. On Premise available at https://ontech.com/cloud-vs-on-premise/ {accessed 8 dec 2022}
+Background of the enterprise.
 
 Team cleo, On Premise vs. Cloud: Key Differences, Benefits and Risks available at https://www.cleo.com/blog/knowledge-base-on-premise-vs-cloud {accessed 8 dec 2022}
 Animation explainer available at  https://animationexplainers.com/ {accessed 8 dec 2022}.
